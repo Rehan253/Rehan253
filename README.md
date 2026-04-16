@@ -145,6 +145,18 @@ to deploying full-stack applications on the cloud. I love working across the ent
 <tr>
 <td width="50%">
 
+### 🚕 NYC Taxi Data Pipeline
+**ETL & Data Analytics**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/New-York-taxi-data-pipeline)
+
+Python ETL pipeline processing 2019 NYC taxi trip data with SQLite storage and rich Seaborn/Matplotlib visualizations.
+
+`Python` `ETL` `SQLite` `Seaborn` `Matplotlib`
+
+</td>
+<td width="50%">
+  
 ### 🛒 Trinity Grocery System
 **Full-Stack Grocery Management**
 
@@ -197,18 +209,6 @@ Production-ready Flask + React app with automated DevOps workflow using GitLab C
 </tr>
 
 <tr>
-<td width="50%">
-
-### 🚕 NYC Taxi Data Pipeline
-**ETL & Data Analytics**
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/New-York-taxi-data-pipeline)
-
-Python ETL pipeline processing 2019 NYC taxi trip data with SQLite storage and rich Seaborn/Matplotlib visualizations.
-
-`Python` `ETL` `SQLite` `Seaborn` `Matplotlib`
-
-</td>
 <td width="50%">
 
 ### 🏥 Healthcare Chatbot
