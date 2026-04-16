@@ -156,18 +156,6 @@ Python ETL pipeline processing 2019 NYC taxi trip data with SQLite storage and r
 
 </td>
 <td width="50%">
-  
-### 🛒 Trinity Grocery System
-**Full-Stack Grocery Management**
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/trinity-grocery-system)
-
-Flask + React with JWT-secured REST API, PostgreSQL, and Open Food Facts integration. A complete grocery management solution.
-
-`Flask` `React` `PostgreSQL` `JWT` `REST API`
-
-</td>
-<td width="50%">
 
 ### 🔍 PDF AI Search
 **AI-Powered Document Intelligence**
@@ -184,6 +172,18 @@ Local AI-powered PDF search engine using embeddings and FAISS for fast semantic 
 <tr>
 <td width="50%">
 
+### 🛒 Trinity Grocery System
+**Full-Stack Grocery Management**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/trinity-grocery-system)
+
+Flask + React with JWT-secured REST API, PostgreSQL, and Open Food Facts integration. A complete grocery management solution.
+
+`Flask` `React` `PostgreSQL` `JWT` `REST API`
+
+</td>
+<td width="50%">
+
 ### ⏱️ Gotham Time Manager
 **Time Tracking & Analytics Platform**
 
@@ -194,6 +194,9 @@ Phoenix/Elixir + Vue.js platform with Dockerized services and AWS deployment. Re
 `Elixir` `Phoenix` `Vue.js` `Docker` `AWS`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🔄 DevOps Pipeline
@@ -206,9 +209,6 @@ Production-ready Flask + React app with automated DevOps workflow using GitLab C
 `Flask` `React` `Docker` `GitLab CI` `AWS`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🏥 Healthcare Chatbot
@@ -255,7 +255,9 @@ Built an interactive Tableau dashboard for a client to analyze psychological sup
 
 ## 📊 GitHub Analytics
 
-<div align="center">&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rehan253&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan253&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 <br/>
@@ -270,7 +272,6 @@ Built an interactive Tableau dashboard for a client to analyze psychological sup
 
 ```
 📦 AI & ML         ████████████████████░░   85%  — RAG systems, NLP, embeddings
-🌐 Full-Stack      ██████████████████░░░░   75%  — React, Vue.js, Flask, Phoenix
 ☁️ DevOps & Cloud  ████████████████░░░░░░   70%  — Docker, CI/CD, AWS
 📊 Data & Viz      ██████████████████░░░░   75%  — Tableau, ETL pipelines, analytics
 ```
@@ -300,7 +301,7 @@ Built an interactive Tableau dashboard for a client to analyze psychological sup
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehan.shafique.253@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/rehanshafique/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehanshafique/)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rehan.shafique6240)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rehan253)
 
