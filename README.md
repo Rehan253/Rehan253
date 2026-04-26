@@ -45,7 +45,7 @@ to deploying full-stack applications on the cloud. I love working across the ent
 <br/>
 **AI & NLP**
 <br/>
-<sub>RAG systems, embeddings, semantic search, LLMs</sub>
+<sub>RAG, LangGraph agents, vector search, LLMs</sub>
 
 </td>
 <td align="center" width="25%">
@@ -92,8 +92,13 @@ to deploying full-stack applications on the cloud. I love working across the ent
 
 ### 🧠 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=chromadb&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -108,19 +113,23 @@ to deploying full-stack applications on the cloud. I love working across the ent
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=chromadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### 🔧 Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -145,14 +154,14 @@ to deploying full-stack applications on the cloud. I love working across the ent
 <tr>
 <td width="50%">
 
-### 🚕 NYC Taxi Data Pipeline
-**ETL & Data Analytics**
+### 🤖 AI Company Research Agent
+**Production RAG + Autonomous Agent**
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/New-York-taxi-data-pipeline)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/AI-Company-Research-Agent)
 
-Python ETL pipeline processing 2019 NYC taxi trip data with SQLite storage and rich Seaborn/Matplotlib visualizations.
+End-to-end RAG application with a LangGraph ReAct agent. Ingests web + PDFs, answers questions with cited sources, and autonomously selects tools (vector search, live web, summarize, ingest).
 
-`Python` `ETL` `SQLite` `Seaborn` `Matplotlib`
+`LangChain` `LangGraph` `ChromaDB` `FastAPI` `Streamlit` `RAG`
 
 </td>
 <td width="50%">
@@ -172,6 +181,18 @@ Local AI-powered PDF search engine using embeddings and FAISS for fast semantic 
 <tr>
 <td width="50%">
 
+### 🚕 NYC Taxi Data Pipeline
+**ETL & Data Analytics**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/New-York-taxi-data-pipeline)
+
+Python ETL pipeline processing 2019 NYC taxi trip data with SQLite storage and rich Seaborn/Matplotlib visualizations.
+
+`Python` `ETL` `SQLite` `Seaborn` `Matplotlib`
+
+</td>
+<td width="50%">
+
 ### 🛒 Trinity Grocery System
 **Full-Stack Grocery Management**
 
@@ -182,6 +203,9 @@ Flask + React with JWT-secured REST API, PostgreSQL, and Open Food Facts integra
 `Flask` `React` `PostgreSQL` `JWT` `REST API`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### ⏱️ Gotham Time Manager
@@ -194,9 +218,6 @@ Phoenix/Elixir + Vue.js platform with Dockerized services and AWS deployment. Re
 `Elixir` `Phoenix` `Vue.js` `Docker` `AWS`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🔄 DevOps Pipeline
@@ -207,18 +228,6 @@ Phoenix/Elixir + Vue.js platform with Dockerized services and AWS deployment. Re
 Production-ready Flask + React app with automated DevOps workflow using GitLab CI/CD, Docker, Nginx, and MongoDB on AWS.
 
 `Flask` `React` `Docker` `GitLab CI` `AWS`
-
-</td>
-<td width="50%">
-
-### 🏥 Healthcare Chatbot
-**Medical Query Assistant**
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/Healthcare-Chatbot)
-
-AI-powered chatbot designed for medical queries — input your health questions and receive informed answers.
-
-`Python` `NLP` `AI` `Healthcare`
 
 </td>
 </tr>
@@ -271,7 +280,7 @@ Built an interactive Tableau dashboard for a client to analyze psychological sup
 ## 🏗️ What I'm Building
 
 ```
-📦 AI & ML         ████████████████████░░   85%  — RAG systems, NLP, embeddings
+📦 AI & ML         ████████████████████░░   85%  — RAG, LangGraph agents, embeddings
 ☁️ DevOps & Cloud  ████████████████░░░░░░   70%  — Docker, CI/CD, AWS
 📊 Data & Viz      ██████████████████░░░░   75%  — Tableau, ETL pipelines, analytics
 ```
