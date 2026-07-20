@@ -99,9 +99,11 @@ to deploying full-stack applications on the cloud. I love working across the ent
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-016A70?style=flat-square&logo=xgboost&logoColor=white)
 
 ### 📊 Data Analytics & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -162,6 +164,33 @@ to deploying full-stack applications on the cloud. I love working across the ent
 End-to-end RAG application with a LangGraph ReAct agent. Ingests web + PDFs, answers questions with cited sources, and autonomously selects tools (vector search, live web, summarize, ingest).
 
 `LangChain` `LangGraph` `ChromaDB` `FastAPI` `Streamlit` `RAG`
+
+</td>
+<td width="50%">
+
+### 🌾 AgriSense AI
+**AI-Powered Agricultural Advisory Platform**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/agrisenseai)
+
+Agricultural advisory platform for South Asian farmers, built with a 4-person team. I led the pest-risk and irrigation modules — Random Forest classifiers (86.6% / 91.9% accuracy) and an XGBoost irrigation model (99.8% accuracy, 4.87mm MAE) trained on 11 years of NASA POWER weather data, served via FastAPI with a 25-case test suite.
+
+`Python` `Random Forest` `XGBoost` `FastAPI` `NASA POWER API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🩻 Zoidberg 2.0 — Pneumonia Detection
+**CNN vs. Classical ML for Medical Imaging**
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/Rehan253/Zoidberg2.0---Pneumonia-Detection)
+
+Computer-aided diagnosis system classifying chest X-rays as normal or pneumonia. Built a CNN from scratch and benchmarked it against classical baselines (Logistic Regression, SVM+PCA), optimizing for recall and AUC over raw accuracy — a false negative means sending home an untreated patient.
+
+`Python` `TensorFlow/Keras` `Scikit-learn` `CNN` `Medical Imaging`
 
 </td>
 <td width="50%">
@@ -237,6 +266,33 @@ Production-ready Flask + React app with automated DevOps workflow using GitLab C
 
 ---
 
+## 📄 Publications
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 🧠 Segmentation Simplified: Lumbar Spine MRI Segmentation via a Tailored U-Net Architecture
+**Peer-Reviewed · Signal, Image and Video Processing (SIViP), 2025**
+
+[![Paper](https://img.shields.io/badge/Springer-View_Paper-1f6feb?style=for-the-badge)](https://doi.org/10.1007/s11760-025-04175-8)
+
+Designed a simplified U-Net architecture for lumbar spine MRI segmentation that reduces model complexity while maintaining precise segmentation accuracy — taken from dataset curation through to peer-reviewed publication.
+
+<sub>Hassan, M., Shafique, R. & Ahmad Farhan, A. *SIViP* 19, 657 (2025).</sub>
+
+`TensorFlow` `Keras` `U-Net` `Medical Imaging` `Deep Learning`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📈 Client Work — Data Visualization
 
 <div align="center">
@@ -281,6 +337,7 @@ Built an interactive Tableau dashboard for a client to analyze psychological sup
 
 ```
 📦 AI & ML         ████████████████████░░   85%  — RAG, LangGraph agents, embeddings
+🧠 Deep Learning   ██████████████████░░░░   78%  — CNNs, U-Net, medical imaging
 ☁️ DevOps & Cloud  ████████████████░░░░░░   70%  — Docker, CI/CD, AWS
 📊 Data & Viz      ██████████████████░░░░   75%  — Tableau, ETL pipelines, analytics
 ```
